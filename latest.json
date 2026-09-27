@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionName": "0.0.01",
-  "versionCode": 100001,
+  "versionName": "0.0.02",
+  "versionCode": 100002,
   "mandatory": false,
-  "apkUrl": "https://github.com/manuelcidapp/mairox-cod-updates/releases/download/v0.0.01/MAIROX-COD.apk",
-  "sha256": "00d0c8c0aad28f4048f315041854ab13be86d103ce6e7ff3b62b3acf358e8d7d",
-  "notes": "Primera versión pública de MAIROX-COD.\n\nIdentificar Fibra operativo.\nCódigo de Colores operativo.\nMinitubos operativo.",
-  "signature": "BzdtKicJflc8jnBP+m7JKHXs4jKiiLXAnLg9d5tbpAey4EIucPGad14i2H+9vNK7AMxJrWVRv2aOSYhKOwL4fYlDIRZezA14sws+pspEyxixqBcf9YwHOumim8yPI+K+UJRhL6WZaFCpB4yOXe3jSGIWgULpYzb7lzeWcEc3llKGsGqvH2sg8GkK+24z/fR8BxX12YzOBswchRFAOk0yDkll3wYwIL9+JKV/PhEcFfu9HaSEuspx8JVwEoz/b1Xj+zvIypvAA2uFTFLiImRMKPCoRiJ0WbJ7oET6mL4KcIFsvqVMJoLa8NID3wTG2r/F3kGilYVJwW6KAVicHR5El1T/DXvn3ftdvtpgloCe8My3h3ryL7XLNNh96LIVqGeie5KCHHPe8zjNonDAdHvG5CUN/tb9TEbWUSEceDFsyjMSVoRIOInrqOXhJRMm9SkiD5gXf5Ta8oOwGm4E64RzUgTn5vUvhegaOSx9vfGq3lKyi5tpy9L8OlrYABBvAVtxFrkZnYDX0Q0+JlScXXpU+BaLcF945VEh+s7toUQOM8LlrpKzIYSj3Zxe0tl2u8VhN+1Q48xCoKEOU4uRD/wGs8iH54UMdMXmlSJah+RqHodIRnVF/BRiEWXuWR5WyfAGke0dg83oqXEHjzOphAsHYpzl34xU7KL3BPztueyzG38="
+  "apkUrl": "https://github.com/manuelcidapp/mairox-cod-updates/releases/download/v0.0.02/MAIROX-COD.apk",
+  "sha256": "ee43f2fd7bbfcb7fb124c499f76eed5b5f41230c3d61b77a371c1b3eefaae5b1",
+  "notes": "Primera actualización OTA de prueba de MAIROX-COD.\n\n- Corrige la nomenclatura oficial de minitubos para 128 y 256 F.O.\n- Corrige el ingreso numérico del Identificador F.O.\n- Deja CAPACIDAD y FIBRA con dimensiones fijas y parejas.\n- Mantiene Guía Rápida en construcción para aislar la prueba OTA.",
+  "signature": "HSUvMhT8VkXMn7KJSM/MPl/opy4xtwZT5H9GIo4V5LSesi1iIsMVnIhY2zj4I6dtQ5zacZ9TJb2OpA3044SAcDuD4/qRB4x1D/2FsbOlEAP9W66bes3jcFDAYa+6HU6+OE92ZwvcTyHG87LKDG1DprTDG55SePmOGtbDNWaUpv74JGahGp6uUwrjoi7fJq2T8Wa6RmTRWhAvgyhMNAl+cKWPsl7zTTYi+Q+WVIfUDk3VfyMgR/jl6OuTbRc369qfW1iwjG5vQVxq0TTrJpP9YSNeJs8tBhhw9ZthbJ2CiODbUalaSvPyUny3J1W6iiWQZWhHWpRcCACndbbBQjTAvUxDLeHAqGTaoVMi4S7jqGLP08B85KbW1OWb8uCNiuWqULOspb8w2gPBX+oEMrQINw6vdpIojwq8bCBCOR3ny+3sXFu0il23gkmPge/X2pLeZFL44NaLbGN7HEeU5/Lk03TgNTe/dYN6ZPLJndx9Eb+AzofYzRmU9YEudaCoIHtUNo8KKfPJzq+SLY//+0OZm8xli5Pg7zlpid1E2Lwfn9TfmHoHe7oB8l0nzlbqGNRABF0obQQptxZgRhcLhxBnlWgWaRZ9XynYFznUrfMwJONenEd+f5pPUfQGxaNqd8LwUMQgCRPLFRljEBhon9JkxV3XMjcqt53i09RozDIiwGo="
 }
