@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionName": "0.0.02",
-  "versionCode": 100002,
+  "versionName": "0.0.03",
+  "versionCode": 100003,
   "mandatory": false,
-  "apkUrl": "https://github.com/manuelcidapp/mairox-cod-updates/releases/download/v0.0.02/MAIROX-COD.apk",
-  "sha256": "ee43f2fd7bbfcb7fb124c499f76eed5b5f41230c3d61b77a371c1b3eefaae5b1",
-  "notes": "Primera actualización OTA de prueba de MAIROX-COD.\n\n- Corrige la nomenclatura oficial de minitubos para 128 y 256 F.O.\n- Corrige el ingreso numérico del Identificador F.O.\n- Deja CAPACIDAD y FIBRA con dimensiones fijas y parejas.\n- Mantiene Guía Rápida en construcción para aislar la prueba OTA.",
-  "signature": "HSUvMhT8VkXMn7KJSM/MPl/opy4xtwZT5H9GIo4V5LSesi1iIsMVnIhY2zj4I6dtQ5zacZ9TJb2OpA3044SAcDuD4/qRB4x1D/2FsbOlEAP9W66bes3jcFDAYa+6HU6+OE92ZwvcTyHG87LKDG1DprTDG55SePmOGtbDNWaUpv74JGahGp6uUwrjoi7fJq2T8Wa6RmTRWhAvgyhMNAl+cKWPsl7zTTYi+Q+WVIfUDk3VfyMgR/jl6OuTbRc369qfW1iwjG5vQVxq0TTrJpP9YSNeJs8tBhhw9ZthbJ2CiODbUalaSvPyUny3J1W6iiWQZWhHWpRcCACndbbBQjTAvUxDLeHAqGTaoVMi4S7jqGLP08B85KbW1OWb8uCNiuWqULOspb8w2gPBX+oEMrQINw6vdpIojwq8bCBCOR3ny+3sXFu0il23gkmPge/X2pLeZFL44NaLbGN7HEeU5/Lk03TgNTe/dYN6ZPLJndx9Eb+AzofYzRmU9YEudaCoIHtUNo8KKfPJzq+SLY//+0OZm8xli5Pg7zlpid1E2Lwfn9TfmHoHe7oB8l0nzlbqGNRABF0obQQptxZgRhcLhxBnlWgWaRZ9XynYFznUrfMwJONenEd+f5pPUfQGxaNqd8LwUMQgCRPLFRljEBhon9JkxV3XMjcqt53i09RozDIiwGo="
+  "apkUrl": "https://github.com/manuelcidapp/mairox-cod-updates/releases/download/v0.0.03/MAIROX-COD.apk",
+  "sha256": "ca866de89d7d2f26e1ec355f4150fe0b117f0550f1ddc84098dc81e891d5deb0",
+  "notes": "MAIROX-COD V0.0.03\n\n- Mejora el tamaño visual en distintos teléfonos.\n- Corrige escala, botones y márgenes en pantallas con diferente densidad.\n- Mantiene el Identificador F.O. corregido.\n- Mantiene la nomenclatura oficial de minitubos 128/256 F.O.\n- La actualización se descarga dentro de MAIROX-COD.\n- Después de verificar el APK, MAIROX-COD abre automáticamente el instalador de Android.\n- Evita descargas OTA duplicadas.\n- Guía Rápida continúa en construcción.",
+  "signature": "K676WMlo4eb07D+IPjR4ZQhvVWtrrplIdkEHD95DuwWsfgVI+ceYNhx9bI7bOC/d7GoWuVTi8Rqyfb0GM5NHNQhA5PITU141bg3Kr6Mv9DznjOZZHofsw21ez0OxwTfOcBCkY7qQLFGFmLBmt/Ty8SOwWwhoDQ1vawBsawYCrfT0gbN4b+mR2KmV7GDO6ou6gun9W9r28pnW2VBhUrk8OuXSCBtXH7PM0gyG/9nCICj8eXQnK7JDdle45Pb1Oj83fTIoeGI+ApXnr2QUESHtaj2mankwF7sbUBDVGBgH09G1kZn3PtMfRsDJK1/StZEYEUZC/irUaj/pDCugbAeyy4c46W4fFEspIAUS3KCPNFrM3TFVQVzFFzMxPlJl7y0bJYAze7cF3TwIiBe8RCvgEzXaYGbtrXVlKcZxNxLhzr7h+GEEOJ59MLK4JaSsmEB0JCTByAk3f7+13WnbgRDVfXcMGkXThhjqPknGFNB6AxTcom5GE9YsTUmURcaqQxL14gHEaR7hqVZAEwnvc2lv4VikpFmQUHyjpTx8FTG+mac5jbYHSKLRPlFEBAKQTBfLQ2hLT5/HxXwesp8DcU0oqFt4gT3eov8pY17KPlU4aBaptDSmVIcktTEXhVVmbLdgFoFseNiVXr8x6EESS0/x8euBi7fqysOF87gi2mbdjl8="
 }
