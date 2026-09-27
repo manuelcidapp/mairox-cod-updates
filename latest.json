@@ -1,0 +1,14 @@
+{
+  "versionName": "0.0.01",
+  "versionCode": 100001,
+  "mandatory": false,
+  "apkUrl": "",
+  "sha256": "",
+  "title": "MAIROX-COD V0.0.01",
+  "notes": [
+    "Primera versión pública de MAIROX-COD",
+    "Identificar fibra operativo",
+    "Código de colores operativo",
+    "Minitubos operativo"
+  ]
+}
