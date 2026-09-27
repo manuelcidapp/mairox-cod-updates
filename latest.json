@@ -1,14 +1,10 @@
 {
+  "schemaVersion": 1,
   "versionName": "0.0.01",
   "versionCode": 100001,
   "mandatory": false,
-  "apkUrl": "",
-  "sha256": "",
-  "title": "MAIROX-COD V0.0.01",
-  "notes": [
-    "Primera versión pública de MAIROX-COD",
-    "Identificar fibra operativo",
-    "Código de colores operativo",
-    "Minitubos operativo"
-  ]
+  "apkUrl": "https://github.com/manuelcidapp/mairox-cod-updates/releases/download/v0.0.01/MAIROX-COD.apk",
+  "sha256": "00d0c8c0aad28f4048f315041854ab13be86d103ce6e7ff3b62b3acf358e8d7d",
+  "notes": "Primera versión pública de MAIROX-COD.\n\nIdentificar Fibra operativo.\nCódigo de Colores operativo.\nMinitubos operativo.",
+  "signature": "BzdtKicJflc8jnBP+m7JKHXs4jKiiLXAnLg9d5tbpAey4EIucPGad14i2H+9vNK7AMxJrWVRv2aOSYhKOwL4fYlDIRZezA14sws+pspEyxixqBcf9YwHOumim8yPI+K+UJRhL6WZaFCpB4yOXe3jSGIWgULpYzb7lzeWcEc3llKGsGqvH2sg8GkK+24z/fR8BxX12YzOBswchRFAOk0yDkll3wYwIL9+JKV/PhEcFfu9HaSEuspx8JVwEoz/b1Xj+zvIypvAA2uFTFLiImRMKPCoRiJ0WbJ7oET6mL4KcIFsvqVMJoLa8NID3wTG2r/F3kGilYVJwW6KAVicHR5El1T/DXvn3ftdvtpgloCe8My3h3ryL7XLNNh96LIVqGeie5KCHHPe8zjNonDAdHvG5CUN/tb9TEbWUSEceDFsyjMSVoRIOInrqOXhJRMm9SkiD5gXf5Ta8oOwGm4E64RzUgTn5vUvhegaOSx9vfGq3lKyi5tpy9L8OlrYABBvAVtxFrkZnYDX0Q0+JlScXXpU+BaLcF945VEh+s7toUQOM8LlrpKzIYSj3Zxe0tl2u8VhN+1Q48xCoKEOU4uRD/wGs8iH54UMdMXmlSJah+RqHodIRnVF/BRiEWXuWR5WyfAGke0dg83oqXEHjzOphAsHYpzl34xU7KL3BPztueyzG38="
 }
